@@ -1,2 +1,1 @@
-# Learning-HTML
-First steps
+This is my journey throughout college.
